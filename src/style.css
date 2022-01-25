@@ -1,0 +1,148 @@
+.blok {
+    display: flex;
+    flex-direction: column;
+    margin: 40px;
+}
+.bl {
+    display: flex;
+    flex-direction: row;
+    border-bottom: 1px solid rgb(209, 209, 209);
+    /* width: 100x; */
+    height: 40px;
+    line-height: 40px;
+}
+.blh {
+    font-weight: 100px;
+    font-weight: bold;
+}
+.bl div:nth-child(2){
+    font-weight: bold;
+    width: 100px;
+}
+.bl div:nth-child(3){
+   
+    width: 180px;
+}
+.bl div:nth-child(4){
+   
+    width: 130px;
+}
+.bl div:nth-child(5){
+   
+    width: 90px;
+}
+.bl div:nth-child(6){
+   
+    width: 180px;
+}
+.bl div:nth-child(7){
+   
+    width: 140px;
+}
+.bl div:nth-child(8){
+   
+    width: 60px;
+}
+.bl div:nth-child(9){
+   
+    width: 140px;
+}
+#dotPaid{
+    font-size: 32px;
+    vertical-align: sub;
+}
+#search{
+    width: 1060px;
+    height: 40px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid rgb(204, 204, 204);
+}
+#Sort{
+    background-color: white;
+    border-radius: 0 5px 5px 0;
+    height: 40px;
+    width: 90px;
+    font-size: 16px;
+    border: 1px solid rgb(139, 139, 138);
+    margin-top: 12px;
+
+}
+#Columns{
+    background-color: white;
+    height: 40px;
+    width: 100px;
+    font-size: 16px;
+    border: 1px solid rgb(139, 139, 138);
+    margin-top: 12px;
+
+}
+#Filter {
+    background-color: white;
+    border-radius:  5px 0 0 5px  ;
+    height: 40px;
+    width: 90px;
+    font-size: 16px;
+    border: 1px solid rgb(139, 139, 138);
+    margin-left: 10px;
+    margin-top: 12px;
+}
+#tochka{
+    background-color: white;
+    border-radius:  5px 5px 5px 5px;
+    width: 40px;
+    font-size: 16px;
+    border: 1px solid rgb(139, 139, 138);
+    margin-left: 10px;
+    margin-top: 12px;
+    font-size: 30px;
+
+}
+
+#PaymentPaid{
+    color: rgb(238, 177, 9);
+    font-size: 30px;
+    margin-top: -10px;
+}
+#Paid {
+    background-color: rgb(190, 197, 188);
+    padding: 0 10px 0 10px;
+    border-radius: 20px;  
+}
+#Paid2 {
+    background-color: rgba(228, 174, 25, 0.562);
+    padding: 0 10px 0 10px;
+    border-radius: 20px; 
+}
+.btn {
+    display: flex;
+}
+
+.blH {
+    display: flex;
+    flex-direction: row;
+    border-bottom: 1px solid rgb(209, 209, 209);
+    /* width: 100x; */
+    height: 40px;
+    line-height: 40px;
+}
+input {
+    margin-top: 12px;
+    
+}
+.bl div {
+    margin-left: 30px;
+    /* width: 300px; */
+}
+.blH div {
+    margin-left: 40px;
+    /* width: 300px; */
+}
+b{
+    color: rgb(192, 180, 13);
+    font-size: 28px;
+    vertical-align: middle;
+}
+
+
+
